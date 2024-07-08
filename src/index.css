@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #e6e6e6;
+}
+.borderPadrao{
+  border: solid 1px #cacaca;
+}
+
+.cardPadrao{
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border: solid 1px #cacaca;
+}
+.cardPadrao h1{
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+.cardPadrao p{
+  font-size: 32px;
+}
+.confirmada{
+  background-color: green;
+}
+.emAberto{
+  background-color: orange;
+}
+.cancelada{
+  background-color: red;
+}
