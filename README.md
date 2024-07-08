@@ -33,7 +33,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/controle-de-notas.git
+   git clone https://github.com/pablokonrath/controle-de-nfse.git
 
 
    ```
@@ -41,7 +41,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 2. Navegue até o diretório do projeto:
 
    ```sh
-   cd controle-de-notas
+   cd controle-de-nfse
    ```
 
 3. Instale as dependências:
